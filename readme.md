@@ -8,7 +8,7 @@ Desenvolver uma aplicação frontend utilizando ReactJS (pode ser Next.js ou Vit
 
 ### Tecnologias que usamos em nosso projetos
 - ReactJS
-- Chakra UI
+- Tailwind CSS
 
 **Link do protótipo no Figma:** [Protótipo no Figma](https://www.figma.com/proto/TDVEGRoA72cU6ATAC4kWgQ/Teste---FrontEnd)
 
